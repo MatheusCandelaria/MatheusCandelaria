@@ -19,4 +19,5 @@
      
      Apaixonado por Tecnologia, Educaçãoe por mudar a vida das Pessoas através da programação.
      
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscandelaria)](https://github.com/anuraghazra/github-readme-stats)
      
